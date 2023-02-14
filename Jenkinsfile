@@ -1,6 +1,6 @@
 @Library('robot-shared-library') _
 
-env.COMPONENT="frnotend"
+env.COMPONENT="frontend"
 env.APP="angularjs"
 angularjs()
 
